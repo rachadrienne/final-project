@@ -65,9 +65,8 @@ nav a{
 
 section{
     border-top:1px #363636 solid;
-    border-bottom:1px #363636 solid;
     margin: 30px 0;
-    padding: 30px 0 50px 0;
+    padding: 30px 0 0 0;
 }
 
 .project{
@@ -175,6 +174,8 @@ ul.bullets {
 
 footer{
     text-align: center;
+    background: #cdd2d5;
+    padding: 20px ;
 }
 
 footer span{
